@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "183918120382",
+    "project_id": "think-bright-5e939",
+    "storage_bucket": "think-bright-5e939.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183918120382:android:27deaced9249bbfc3cfdef",
+        "android_client_info": {
+          "package_name": "com.mulla.thinkbright"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7QCqElGISDkWVmiES8gHvzXbuRMZqIeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
